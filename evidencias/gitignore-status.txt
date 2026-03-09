@@ -1,0 +1,18 @@
+On branch features/gitignore
+Your branch is up to date with 'origin/features/gitignore'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    EVIDENCIAS.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Ejercicio Practico - Modulo 1_ Versionado de Codigo y Colaboracion.pdf
+        Entrega Versionado de Codigo.docx
+        clave_ssh_entrega01
+        clave_ssh_entrega01.pub
+        evidencias/
+        ~$trega Versionado de Codigo.docx
+
+no changes added to commit (use "git add" and/or "git commit -a") 
