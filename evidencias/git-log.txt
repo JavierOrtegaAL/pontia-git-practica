@@ -1,0 +1,22 @@
+*   32dab9a (HEAD -> master) Merge branch 'master' of github.com:JavierOrtegaAL/Entrega01
+|\
+| *   d1e4bf9 (origin/master) Merge pull request #3 from JavierOrtegaAL/feature/suma
+| |\
+* | \   4606837 Merge branch 'feature/resta' y 'feature/suma'
+|\ \ \
+| |_|/
+|/| |
+| * | b14c5e8 (origin/feature/resta, feature/resta) Resta
+| |/
+* / 83adbd0 (origin/feature/suma, feature/suma) Suma
+|/
+*   004c6d2 Merge pull request #2 from JavierOrtegaAL/features/gitignore
+|\
+| * f8a1ca3 (origin/features/gitignore, features/gitignore) git-ignore-status
+| * 39687d9 Evidencias
+* | ade95cb Merge pull request #1 from JavierOrtegaAL/features/gitignore
+|\|
+| * 410404f Evidencias y gitignore
+* | 3ccdfd7 Update README.md
+|/
+* dd8e927 Primeros Cambios
