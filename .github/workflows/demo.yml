@@ -1,4 +1,4 @@
-name: Mostrar nombre y apellidos
+name: Mostrar Nombre y Apellidos
 
 on:
 workflow_dispatch:
